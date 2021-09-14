@@ -1,11 +1,16 @@
 _repo: No-Time-Land_66237
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66237-h/images/cover.jpg
 creator:
   author:
     agent_name: Fulton, M. J. C.
     gutenberg_agent_id: '53700'
     url: http://www.gutenberg.org/2009/agents/53700
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66237#No-Time-Land
 gutenberg_issued: '2021-09-07'
 identifiers:
   gutenberg: '66237'
